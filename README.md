@@ -37,7 +37,7 @@ npm run lint
  
  Todo
 
-A brief description of what this Vue.js project does and who it's for
+A brief description of what this Vue.js project does and who it's for User
 
 
 ## Acknowledgements
